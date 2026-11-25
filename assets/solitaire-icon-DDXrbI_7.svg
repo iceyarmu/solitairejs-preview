@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="felt" x2="1" y2="1">
+      <stop stop-color="#20856f"/>
+      <stop offset="1" stop-color="#074c43"/>
+    </linearGradient>
+    <linearGradient id="paper" x2="0.3" y2="1">
+      <stop stop-color="#fffef6"/>
+      <stop offset="1" stop-color="#e9efdf"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="15" fill="url(#felt)"/>
+  <rect x="1" y="1" width="62" height="62" rx="14" fill="none" stroke="#fff" stroke-opacity=".14" stroke-width="2"/>
+  <rect x="12" y="12" width="32" height="43" rx="5" transform="rotate(-14 28 33.5)" fill="#e6bc6b"/>
+  <rect x="22" y="10" width="31" height="44" rx="5" fill="#003e35" fill-opacity=".3"/>
+  <rect x="21" y="8" width="31" height="44" rx="5" fill="url(#paper)"/>
+  <path d="M36.5 41C33 37.5 26 32 26 26.5C26 19.5 33.5 18 36.5 24C39.5 18 47 19.5 47 26.5C47 32 40 37.5 36.5 41Z" fill="#cf3346"/>
+</svg>

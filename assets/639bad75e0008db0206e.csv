@@ -1,0 +1,203 @@
+﻿index,level_threshold,title_zh_variant1,title_zh_variant2,title_en_variant1,title_en_variant2,hash_variant1,hash_variant2,raw_offset,source,path_id,meaning_status
+0,1,菜鸟,菜鸟,Novice,Novice,3492225294,86721075,56,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+1,2,爱好者,爱好者,Hobbyist,Hobbyist,1928603105,2040814232,72,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+2,5,侍从,侍女,Squire,Maiden,3776568462,1684562106,88,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+3,10,接龙分析员,接龙分析员,Suit Sequencer,Suit Sequencer,677390677,453350743,104,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+4,15,纸牌巨鳄,纸牌巨鳄,Card Shark,Card Shark,21198514,1181614174,120,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+5,20,挑战者,挑战者,Daily Challenger,Daily Challenger,1236231418,2071886104,136,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+6,25,牌桌大师,纸牌巨匠,Tableau Maestro,Tableau Maestra,4053966277,1568592496,152,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+7,30,王牌高手,王牌高手,Ace-tronaut,Ace-tronaut,3993994762,3675456708,168,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+8,35,毕业学徒,毕业学徒,Journeyman,Journeyman,862698755,1989474382,184,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+9,40,接龙大师,Klondike大师,Klondiker,Klondiker,2887215072,86613636,200,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+10,45,纸牌爱因斯坦,纸牌爱因斯坦,Doctor Deckenstein,Doctor Deckenstein,2709556953,1360690730,216,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+11,50,骑士,女爵士,Knight,Dame,2180507550,232060288,232,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+12,55,牌堆探索者,牌堆探索者,Stack Explorer,Stack Explorer,3400148364,2714166349,248,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+13,60,牌痴,牌痴,Cardoholic,Cardoholic,1306112950,3462482760,264,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+14,65,高手,高手,Advanced,Advanced,1556719120,2178695483,280,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+15,70,前王室成员,前王室成员,Royal Retiree,Royal Retiree,2757536182,753729277,296,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+16,75,男爵,男爵夫人,Baron,Baroness,3560896071,3701789291,312,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+17,80,叫牌人,叫牌人,Deck Maker,Deck Maker,839582147,1260499060,328,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+18,85,接龙达人,接龙达人,Tailor of Suits,Tailor of Suits,2716066191,1480266722,344,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+19,90,纸牌行家,纸牌行家,Card Connoisseur,Card Connoisseur,3831779118,3558062898,360,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+20,95,高级专家,高级专家,Expert,Expert,2705774149,2771746593,376,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+21,100,公爵,女公爵,Duke,Duchess,2147838412,401112669,392,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+22,105,统计终结者,统计终结者,Stat Smasher,Stat Smasher,1534595509,2278546637,408,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+23,110,犹疑不决的发牌师,犹疑不决的发牌师,Dubious Dealer,Dubious Dealer,2710660560,1762165327,424,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+24,115,摧心者,摧心者,Heart Breaker,Heart Breaker,3107104758,130486906,440,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+25,120,高级专家,高级专家,Professional,Professional,3044018487,3918437840,456,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+26,125,巨匠,巨匠,Maestro,Maestra,3049152470,3461097217,472,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+27,130,快手,快手,Fast Fingers,Fast Fingers,1777056500,1865215035,488,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+28,135,王牌复仇者,王牌复仇者,Ace Avenger,Ace Avenger,485094290,1243281619,504,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+29,140,纸牌大师,纸牌大师,Deck Master,Deck Master,2160736664,2256772254,520,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+30,145,教授,教授,Professor,Professor,1395878781,1747548287,536,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+31,150,伯爵,女伯爵,Count,Countess,4199596394,2714796651,552,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+32,155,初级专家,初级专家,Specialist,Specialist,586555733,2954040604,568,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+33,160,致胜大师,致胜大师,Triumphant,Triumphant,1347856926,3145594712,584,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+34,165,时间大师,时间大师,Time Master,Time Master,1417485393,4000321220,600,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+35,170,梅花征服者,梅花征服者,Club Conqueror,Club Conqueror,2510341202,3100464539,616,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+36,175,洗牌爵士,洗牌女士,Sir Shuffles,Madame Shuffles,1299521219,2572221293,632,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+37,180,四副牌高手,四副牌大师,Four Decker,Four Decker,421884860,1637948843,648,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+38,185,大师,大师,Master,Master,4032234899,74205171,664,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+39,190,跳跃的小丑,跳跃的小丑,Jumping Joker,Jumping Joker,4049793401,4050910316,680,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+40,195,记录终极者,记录终极者,Point Breaker,Point Breaker,3445290673,892101846,696,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+41,200,王子,公主,Prince,Princess,3581927056,2388587632,712,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+42,205,洗牌大师,洗牌大师,Shuffle Master,Shuffle Mistress,3349299061,1380623522,728,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+43,210,王牌牧马人,王牌牧马人,Ace Wrangler,Ace Wrangler,913144222,1739211346,744,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+44,215,吸牌者,吸牌者,Card Captivator,Card Captivator,141905658,2031486785,760,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+45,220,红手,红手,Hot Hands,Hot Hands,663230167,3109221553,776,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+46,225,侯爵,女侯爵,Marquess,Marchioness,3891647137,3563709531,792,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+47,230,破纪录者,破纪录者,Record Breaker,Record Breaker,2875843343,1118171524,808,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+48,235,皇家顾问,皇家顾问,Royal Advisor,Royal Advisor,4118011043,3504048912,824,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+49,240,发牌员,发牌员,Deck Dealer,Deck Dealer,1440769546,3338210652,840,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+50,245,纸牌观测手,纸牌观测手,Card Spotter,Card Spotter,593007613,1522603596,856,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+51,250,大公爵,女公爵,Archduke,Archduchess,4025770631,1254120202,872,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+52,255,超级牌术师,超级牌术师,Super Stacker,Super Stacker,1168979744,3347157562,888,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+53,260,纸牌执行官,纸牌执行官,"CEO, Card Executive Officer","CEO, Card Executive Officer",694647296,1548145772,904,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+54,265,王牌,王牌,The Ace,The Ace,2228504692,2158256430,920,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+55,270,优秀学员,优秀学员,Overachiever,Overachiever,3029045573,3086130081,936,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+56,275,国王,女王,King,Queen,3595217187,3324012862,952,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+57,280,纸牌侦探,纸牌侦探,Card Sleuth,Card Sleuth,1841034651,402536366,968,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+58,285,激情玩家,激情玩家,Passion Player,Passion Player,3405913282,3271701101,984,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+59,290,顶级高手,顶级高手,Top Tapper,Top Tapper,268365361,990277386,1000,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+60,295,老手,老手,Experienced,Experienced,422153394,586220103,1016,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+61,300,纸牌大王,纸牌女士,Lord of the Deck,Lady of the Deck,4010621401,1828077607,1032,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+62,305,同花顺专家,接龙专家,Suit Savant,Suit Savant,602237795,3610693986,1048,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+63,310,占卜师,占卜师,Deck Diviner,Deck Diviner,4281836604,1589039526,1064,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+64,315,机会主义者,机会主义者,Opportunist,Opportunist,1310499358,1162601900,1080,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+65,320,弄臣,弄臣,Court Jester,Court Jester,3526325876,77876696,1096,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+66,325,纸牌达人,纸牌达人,Master of Cards,Mistress of Cards,657222679,1249391593,1112,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+67,330,王牌飞行员,王牌飞行员,Flying Ace,Flying Ace,3903078932,2883134968,1128,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+68,335,纸牌魔术师,纸牌魔术师,Card Charmer,Card Charmer,41451414,1890942571,1144,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+69,340,霸主,霸主,Overlord,Overlord,4145455702,406577230,1160,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+70,345,战略洗牌者,战略洗牌者,Strategic Shuffler,Strategic Shuffler,1221548465,532010456,1176,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+71,350,大公,女大公,Grand Duke,Grand Duchess,1650572620,1507872170,1192,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+72,355,王牌达成者,王牌达成者,Ace Achiever,Ace Achiever,3166795981,192371927,1208,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+73,360,超能纸牌收集者,超能纸牌收集者,Charismatic Card Collector,Charismatic Card Collector,3038326163,1036387133,1224,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+74,365,东方不败,东方不败,Unstoppable,Unstoppable,871746697,1794680439,1240,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+75,370,接龙之星,接龙之星,Suiting Star,Suiting Star,3252958026,1715677260,1256,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+76,375,代理皇帝,代理女皇,Associate Emperor,Associate Empress,2110939718,3094273085,1272,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+77,380,纸牌英雄,纸牌英雄,Card Hero,Card Hero,943719474,4014291209,1288,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+78,385,清牌能手,清牌能手,Decked Out,Decked Out,3704346208,1865016428,1304,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+79,390,大师级行动派,大师级行动派,Masterful Mover,Masterful Mover,3029345767,2462245937,1320,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+80,395,分析师,分析师,Analyst,Analyst,4257051828,2753869932,1336,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+81,400,冠军,冠军,Champion,Champion,524912801,3254034975,1352,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+82,405,赌侠,赌侠,Deck Buster,Deck Buster,2386835204,1892285416,1368,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+83,410,王牌侦探,王牌侦探,Ace Detective,Ace Detective,2866963692,691066660,1384,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+84,415,纸牌智者,纸牌智者,Mastermind,Mastermind,359376728,3231996675,1400,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+85,420,52终结者,52终结者,Fifty Two Finisher,Fifty Two Finisher,2280375945,4064870867,1416,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+86,425,纸牌沙皇,纸牌女沙皇,Card Czar,Card Czarina,3849449988,1734065627,1432,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+87,430,非凡大师,非凡大师,Extraordinary,Extraordinary,2143739655,4261715875,1448,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+88,435,纸牌操纵者,纸牌操纵者,Deck Manipulator,Deck Manipulator,3344406493,1949947237,1464,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+89,440,骗术大师,骗术大师,Tableau Trickster,Tableau Trickster,3010438256,1948458978,1480,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+90,445,小丑,小丑,Joker,Joker,130335363,96332344,1496,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+91,450,帝王,女皇,Emperor,Empress,2950493477,2295432930,1512,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+92,455,牌语者,牌语者,Card Whisperer,Card Whisperer,1113799151,2914338175,1528,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+93,460,飘逸大师,飘逸大师,The Randomizer,The Randomizer,1629802331,2881462320,1544,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+94,465,计算达人,计算达人,Mathematician,Mathematician,3229945857,1565662752,1560,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+95,470,催眠助手,催眠助手,Hypnotic Helper,Hypnotic Helper,395096790,833661468,1576,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+96,475,黑桃苏丹,黑桃苏丹王后,Sultan of Spades,Sultana of Spades,4023673471,2578973292,1592,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+97,480,同花顺顾问,同花顺顾问,Advisor of Suits,Advisor of Suits,269302583,3516885191,1608,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+98,485,基础完美主义者,基础完美主义者,Foundation Perfectionist,Foundation Perfectionist,461497097,2068170297,1624,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+99,490,速度达人,速度达人,Speedy Solver,Speedy Solver,2561771467,3585991414,1640,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+100,495,强力玩家,强力玩家,Power Player,Power Player,1074755007,372498149,1656,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+101,500,万能牌,万能牌,Wild Card,Wild Card,823417656,1786888614,1672,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+102,505,年度发牌师,年度发牌师,Dealer of the Decade,Dealer of the Decade,1452184994,134077420,1688,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+103,510,纸牌泰坦,纸牌泰坦,Tableau Titan,Tableau Titan,80609699,109639271,1704,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+104,515,方法论大师,方法论大师,Methodical,Methodical,4286298409,1533547244,1720,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+105,520,速度怪物,速度怪物,Speed Demon,Speed Demon,3165329985,4211481239,1736,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+106,525,纸牌王子,纸牌公主,Prince of Solitaire,Princess of Solitaire,1247413287,4040080526,1752,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+107,530,思想家,思想家,The Thinker,The Thinker,2849410624,2919540726,1768,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+108,535,至高,至高,Supreme,Supreme,3856495246,1624538844,1784,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+109,540,基础填充者,基础填充者,Foundation Filler,Foundation Filler,596985553,3942749548,1800,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+110,545,摇摇乐,摇摇乐,Deal-liteful,Deal-liteful,4027684223,3934887022,1816,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+111,550,大帝,女帝,Grand Emperor,Grand Empress,3411801846,3073715356,1832,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+112,555,牌从天降,牌从天降,Cardsharknado,Cardsharknado,3443932976,2770404186,1848,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+113,560,超级战略家,超级战略家,Super Strategist,Super Strategist,3513145035,1569051722,1864,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+114,565,破局者,破局者,Deal Breaker,Deal Breaker,391803423,4122290047,1880,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+115,570,变革者,变革者,The Game Changer,The Game Changer,2091072181,3297658273,1896,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+116,575,纸牌伯爵,纸牌女伯爵,Count of Cards,Countess of Cards,2079250914,3748573527,1912,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+117,580,铂金玩家,铂金玩家,Platinum Player,Platinum Player,1374995347,2002180420,1928,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+118,585,目标终结者,目标终结者,Goal Breaker,Goal Breaker,4093506056,119869329,1944,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+119,590,基础主义者,基础主义者,Foundationalist,Foundationalist,3222753971,2283330658,1960,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+120,595,纸牌情圣,纸牌情圣,Card Casanova,Card Casanova,1592741330,3026446244,1976,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+121,600,贵族,等级女王,Lord of Levels,Lady of Levels,3621562714,1989784670,1992,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+122,605,同花顺达人,同花顺达人,Suit Stacker,Suit Stacker,427240657,2789732915,2008,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+123,610,王牌学员,王牌学员,Ace-cadet,Ace-cadet,3997271822,3722120365,2024,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+124,615,显贵,显贵,Prestigious,Prestigious,246987725,2771640487,2040,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+125,620,卡牌指挥官,卡牌指挥官,Card Commander,Card Commander,112313758,120777405,2056,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+126,625,牌术公爵,牌术女公爵,Duke of Deals,Duchess of Deals,1046031105,1387894915,2072,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+127,630,同花顺大师,同花顺大师,Well Suited,Well Suited,3460066980,301657358,2088,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+128,635,优胜者,优胜者,Top Dog,Top Dog,4234101120,2042713520,2104,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+129,640,梅花达人,梅花达人,Club Captain,Club Captain,1657836158,4268359978,2120,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+130,645,脑力终极者,脑力终极者,Brainbender,Brainbender,3955986840,1689694910,2136,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+131,650,纸牌国王,纸牌女王,King of Cards,Queen of Cards,1713315511,3463291590,2152,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+132,655,禅术大师,禅术大师,Zen Master,Zen Master,4285249053,3785618475,2168,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+133,660,鉴赏家,鉴赏家,Virtuoso,Virtuoso,3010392938,646233328,2184,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+134,665,超级算牌师,超级算牌师,Super Solver,Super Solver,542956060,2023467950,2200,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+135,670,王牌追逐者,王牌追逐者,Ace Chaser,Ace Chaser,1677011978,3282927198,2216,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+136,675,接龙苏丹,接龙苏丹,Sultan of the Suits,Sultana of the Suits,3557707950,3342384085,2232,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+137,680,红心英雄,红心英雄,Heart Hero,Heart Hero,310998093,2397402475,2248,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+138,685,超绝,超绝,Excelsior,Excelsior,506446454,270665949,2264,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+139,690,纸牌发烧友,纸牌发烧友,Card Aficionado,Card Aficionado,3307370183,3918057204,2280,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+140,695,王牌猎手,王牌猎手,Ace Hunter,Ace Hunter,4059111890,288054473,2296,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+141,700,纸牌公爵,纸牌女公爵,Duke of the Deck,Duchess of the Deck,3393185,1456748397,2312,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+142,705,魔术手,魔术手,Magic Hands,Magic Hands,3870523760,1928467420,2328,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+143,710,纸牌吉拉,纸牌吉拉,Cardzilla,Cardzilla,3121677037,3648277300,2344,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+144,715,纸牌名人,纸牌名人,Dealmeister,Dealmeister,2255105297,1155285742,2360,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+145,720,触不可及,触不可及,Untouchable,Untouchable,3934552752,1521260632,2376,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+146,725,红心国王,红心女王,King of Hearts,Queen of Hearts,3804398982,2830505938,2392,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+147,730,多面手,多面手,The Tinkerer,The Tinkerer,3830723072,87090693,2408,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+148,735,组织者,组织者,Organizer,Organizer,1655488341,432869853,2424,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+149,740,环保主义者,环保主义者,Conservationist,Conservationist,2674279212,1326242603,2440,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+150,745,可怕的敌人,可怕的敌人,Formidable Foe,Formidable Foe,2913290908,971029946,2456,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+151,750,金刚,蜂后,King Kong,Queen Bee,2186160107,4234822762,2472,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+152,755,王牌天使,王牌天使,Ace Angel,Ace Angel,2111200530,3136340619,2488,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+153,760,接龙大师,接龙大师,Solution Master,Solution Master,3668908390,1777945037,2504,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+154,765,牌桌主宰者,牌桌主宰者,Chairman of the Board,Chairman of the Board,2568791097,819808904,2520,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+155,770,杰出,杰出,Magnificent,Magnificent,2182656305,1624078633,2536,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+156,775,数字专家,数字女骑士,Knight of Numbers,Dame of Numbers,2827420846,1980148377,2552,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+157,780,全明星,全明星,Allstar,Allstar,1508345039,2575160626,2568,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+158,785,纸牌忍者,纸牌忍者,Deck Ninja,Deck Ninja,2952906859,2465246311,2584,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+159,790,胜利大师,胜利大师,The Victorious,The Victorious,2366304202,313558279,2600,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+160,795,纸牌学家,纸牌学家,Cardiologist,Cardiologist,2219501198,1225233636,2616,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+161,800,基础之王,基础女王,Foundation King,Foundation Queen,3387805080,221250122,2632,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+162,805,非凡大师,非凡大师,Extraordinaire,Extraordinaire,3999009153,1639649737,2648,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+163,810,牌手,牌手,Deckhand,Deckhand,614072457,4216952480,2664,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+164,815,挑战者,挑战者,Challenger,Challenger,2839015478,398587792,2680,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+165,820,纸牌博士,纸牌博士,PhDealer,PhDealer,3103631817,1633730896,2696,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+166,825,卡牌沙皇,卡牌女沙皇,Tsar of the Cards,Tsarina of the Cards,2440298564,1472914015,2712,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+167,830,赏金猎人,赏金猎人,Reward Hunter,Reward Hunter,1890550107,58739310,2728,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+168,835,学霸,学霸,Brainiac,Brainiac,2231442706,3367515528,2744,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+169,840,牌痴,牌痴,Card Addict,Card Addict,1037708212,3279454808,2760,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+170,845,牌组怪兽,牌组怪兽,Deckzilla,Deckzilla,4002997466,673281194,2776,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+171,850,卡牌国王,卡牌女王,Shuffle King,Shuffle Queen,1682275167,2938406958,2792,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+172,855,绝对王者,绝对王者,Master Champion,Master Champion,1870379762,1750905384,2808,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+173,860,太空王牌,太空王牌,Space Cardet,Space Cardet,877877679,3098281333,2824,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+174,865,解谜师,解谜师,Puzzle Solver,Puzzle Solver,3880969513,1357866732,2840,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+175,870,精英,精英,Elite,Elite,309212376,3798494991,2856,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+176,875,皇冠之王,皇冠女王,King of Crowns,Queen of Crowns,4268897909,1148636995,2872,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+177,880,纸牌高手,纸牌高手,Card Flipper,Card Flipper,2450889784,1226390150,2888,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+178,885,发牌高手,发牌高手,Master Dealer,Master Dealer,711108759,2535545372,2904,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+179,890,蜘蛛,蜘蛛,Solitarity,Solitarity,3902364288,293004119,2920,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+180,895,基础发现者,基础发现者,Foundation Finder,Foundation Finder,869429679,339886977,2936,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+181,900,纸牌之王,纸牌女王,Solitaire King,Solitaire Queen,3846643605,4155798965,2952,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+182,905,传奇,传奇,Legendary,Legendary,1582674903,1742553982,2968,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+183,910,序列巫师,序列巫师,Sequence Sorcerer,Sequence Sorcerer,2437329431,2076351637,2984,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+184,915,卡牌女神,卡牌女神,Deck Diva,Deck Diva,1531683590,3629302422,3000,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+185,920,安排者,安排者,The Arranger,The Arranger,1306463371,3423478984,3016,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+186,925,守牌人,守牌人,Keeper of the Decks,Keeper of the Decks,1950111148,1008803096,3032,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+187,930,卡牌袋鼠,卡牌袋鼠,Card Kangaroo,Card Kangaroo,3550319973,2904976722,3048,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+188,935,时间之主,时间之主,Time Lord,Time Lord,218655671,3025173376,3064,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+189,940,总冠军,总冠军,Grand Champion,Grand Champion,3423210867,755018716,3080,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+190,945,型男,型男,Heart Throb,Heart Throb,2712372604,3127209416,3096,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+191,950,花牌狂人,花牌狂人,Facecard Fanatic,Facecard Fanatic,658758516,2626021950,3112,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+192,955,忠实爱好者,忠实爱好者,Dedicated,Dedicated,1605842403,572872234,3128,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+193,960,火爆发牌师,火爆发牌师,Dynamite Dealer,Dynamite Dealer,2650291534,3654275477,3144,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+194,965,超级巨星,超级巨星,Superstar,Superstar,4273775537,691936766,3160,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+195,970,职业玩家,职业玩家,Professional Player,Professional Player,2323690823,1688698977,3176,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+196,975,梦想家,梦想家,Visionary,Visionary,2432725479,66323678,3192,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+197,980,设计师,设计师,Architect,Architect,657186949,4106011633,3208,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+198,985,VIP,VIP,The VIP,The VIP,2760903432,1973934447,3224,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+199,990,宗师,宗师,Grand Master,Grand Master,2656020547,1502737273,3240,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+200,995,幸运晋级者,幸运晋级者,Lucky Leveler,Lucky Leveler,3946357104,4165565144,3256,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）
+201,1000,纸牌传奇,纸牌传奇,Solitaire Legend,Solitaire Legend,2961820707,1434266239,3272,sharedassets1.assets.zip/MonoBehaviour/3623.bin,3623,整数及本地化匹配已核验；等级门槛为推定；variant1/2性别语义及原字段名未确认（缺失TypeTree）

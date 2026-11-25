@@ -1,0 +1,160 @@
+{
+  "launch": "2026-11-01",
+  "previousMonths": 1,
+  "utcOffsetHours": 8,
+  "notificationsEnabled": true,
+  "themes": [
+    {
+      "month": 1,
+      "background": "calendar_backgrounds/img_daily_challenge_calendar_bg_01",
+      "trophy": "monthly_trophy_layers/jan/jan_trophy",
+      "available": "#FFF0CE",
+      "future": "#B9B8B0",
+      "futureNear": "#FFC000",
+      "nearDays": 7,
+      "selected": "#00C923",
+      "expired": "#9096A0"
+    },
+    {
+      "month": 2,
+      "background": "calendar_backgrounds/img_daily_challenge_calendar_bg_02",
+      "trophy": "monthly_trophy_layers/feb/feb_trophy",
+      "available": "#FFF0CE",
+      "future": "#B9B8B0",
+      "futureNear": "#FFC000",
+      "nearDays": 7,
+      "selected": "#00C923",
+      "expired": "#9096A0"
+    },
+    {
+      "month": 3,
+      "background": "calendar_backgrounds/img_daily_challenge_calendar_bg_03",
+      "trophy": "monthly_trophy_layers/mar/mar_trophy",
+      "available": "#FFF0CE",
+      "future": "#B9B8B0",
+      "futureNear": "#FFC000",
+      "nearDays": 7,
+      "selected": "#00C923",
+      "expired": "#9096A0"
+    },
+    {
+      "month": 4,
+      "background": "calendar_backgrounds/img_daily_challenge_calendar_bg_04",
+      "trophy": "monthly_trophy_layers/apr/apr_trophy",
+      "available": "#FFF0CE",
+      "future": "#B9B8B0",
+      "futureNear": "#FFC000",
+      "nearDays": 7,
+      "selected": "#00C923",
+      "expired": "#9096A0"
+    },
+    {
+      "month": 5,
+      "background": "calendar_backgrounds/img_daily_challenge_calendar_bg_05",
+      "trophy": "monthly_trophy_layers/may/may_trophy",
+      "available": "#FFF0CE",
+      "future": "#B9B8B0",
+      "futureNear": "#FFC000",
+      "nearDays": 7,
+      "selected": "#00C923",
+      "expired": "#9096A0"
+    },
+    {
+      "month": 6,
+      "background": "calendar_backgrounds/img_daily_challenge_calendar_bg_06",
+      "trophy": "monthly_trophy_layers/jun/jun_trophy",
+      "available": "#FFF0CE",
+      "future": "#B9B8B0",
+      "futureNear": "#FFC000",
+      "nearDays": 7,
+      "selected": "#00C923",
+      "expired": "#9096A0"
+    },
+    {
+      "month": 7,
+      "background": "calendar_backgrounds/img_daily_challenge_calendar_bg_07",
+      "trophy": "monthly_trophy_layers/jul/jul_trophy",
+      "available": "#FFF0CE",
+      "future": "#B9B8B0",
+      "futureNear": "#FFC000",
+      "nearDays": 7,
+      "selected": "#00C923",
+      "expired": "#9096A0"
+    },
+    {
+      "month": 8,
+      "background": "calendar_backgrounds/img_daily_challenge_calendar_bg_08",
+      "trophy": "monthly_trophy_layers/aug/aug_trophy",
+      "available": "#FFF0CE",
+      "future": "#B9B8B0",
+      "futureNear": "#FFC000",
+      "nearDays": 7,
+      "selected": "#00C923",
+      "expired": "#9096A0"
+    },
+    {
+      "month": 9,
+      "background": "calendar_backgrounds/img_daily_challenge_calendar_bg_09",
+      "trophy": "monthly_trophy_layers/sep/sep_trophy",
+      "available": "#FFF0CE",
+      "future": "#B9B8B0",
+      "futureNear": "#FFC000",
+      "nearDays": 7,
+      "selected": "#00C923",
+      "expired": "#9096A0"
+    },
+    {
+      "month": 10,
+      "background": "calendar_backgrounds/img_daily_challenge_calendar_bg_10",
+      "trophy": "monthly_trophy_layers/oct/oct_trophy",
+      "available": "#FFF0CE",
+      "future": "#B9B8B0",
+      "futureNear": "#FFC000",
+      "nearDays": 7,
+      "selected": "#00C923",
+      "expired": "#9096A0"
+    },
+    {
+      "month": 11,
+      "background": "calendar_backgrounds/img_daily_challenge_calendar_bg_11",
+      "trophy": "monthly_trophy_layers/nov/nov_trophy",
+      "available": "#FFF0CE",
+      "future": "#B9B8B0",
+      "futureNear": "#FFC000",
+      "nearDays": 7,
+      "selected": "#00C923",
+      "expired": "#9096A0"
+    },
+    {
+      "month": 12,
+      "background": "calendar_backgrounds/img_daily_challenge_calendar_bg_12",
+      "trophy": "monthly_trophy_layers/dec/dec_trophy",
+      "available": "#FFF0CE",
+      "future": "#B9B8B0",
+      "futureNear": "#FFC000",
+      "nearDays": 7,
+      "selected": "#00C923",
+      "expired": "#9096A0"
+    }
+  ],
+  "rewards": [
+    {
+      "id": "0",
+      "days": 10,
+      "kind": "trophy",
+      "amount": 1
+    },
+    {
+      "id": "1",
+      "days": 20,
+      "kind": "trophy",
+      "amount": 1
+    },
+    {
+      "id": "2",
+      "days": -1,
+      "kind": "trophy",
+      "amount": 1
+    }
+  ]
+}

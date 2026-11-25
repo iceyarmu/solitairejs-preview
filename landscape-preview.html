@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>经典纸牌 · 横版预览</title>
+<style>
+*{box-sizing:border-box}
+body{margin:0;color:#f7f9f0;background:#092c29;font:15px/1.4 "Segoe UI","Microsoft YaHei",sans-serif}
+header{height:60px;display:flex;align-items:center;gap:28px;padding:0 2vw;background:linear-gradient(#113f25,#082719);box-shadow:0 1px 0 #698752}
+header strong{font-size:25px;letter-spacing:-1px} header b{color:#ffcf56}header a{color:#d5e4cd;text-decoration:none} header small{margin-left:auto;color:#cadaae}
+main{min-height:calc(100svh - 60px);background:linear-gradient(110deg,#092a2733,transparent 65%),url("assets/3d899dba9e6a1ce75988.jpg") center 64%/cover;display:grid;grid-template-columns:67% 1fr;grid-template-rows:auto 1fr;gap:10px 12px;padding:0 12px 8px}
+nav{grid-column:1/-1;display:flex;align-items:center;flex-wrap:wrap;gap:8px;padding:13px 0 5px}
+h1{font-size:22px;margin:0 9px 0 0;text-shadow:0 2px 3px #142b20}
+button{font:inherit;font-weight:750;color:white;cursor:pointer;border-radius:8px;border:1px solid #66a267;background:linear-gradient(#41984c,#206235);box-shadow:inset 0 1px #ffffff40,0 3px #103c21;padding:8px 14px;text-shadow:0 1px 1px #163717}
+button:active{transform:translateY(2px)}button:focus-visible,a:focus-visible{outline:3px solid white}
+.group{display:flex}.group button:first-child{border-radius:8px 0 0 8px}.group button:last-child{border-radius:0 8px 8px 0}.group [aria-pressed=true]{background:#143e26;color:#ffe687}
+.gold,.amber{color:#442a03;text-shadow:none;background:linear-gradient(#ffd672,#eba52d);border-color:#e8a42c;box-shadow:0 3px #895709}.purple{background:linear-gradient(#b03cca,#77339a);border-color:#ac59c3;box-shadow:0 3px #49205b}
+section{min-width:0;display:flex;flex-direction:column;justify-content:space-between}.table{container-type:inline-size}
+.rows{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:.6%;align-items:start;max-width:min(100%,117svh);margin:auto}
+.lower{margin-top:8px;padding-bottom:min(19cqw,16vh)}.top{direction:rtl}.waste,.pile,.slot{position:relative;aspect-ratio:149/213}.slot{display:grid;place-items:center;border:1px solid #e7ffcb44;border-radius:7%;background:#051e163b;color:#ecffe24f;font:clamp(18px,3vw,40px) Georgia}
+img{width:100%;display:block;filter:drop-shadow(0 2px 2px #001a18aa)}.pile img,.waste img{position:absolute}.pile img{top:calc(var(--i)*min(1.2cqw,1.4vh) + var(--j)*min(4.2cqw,3.6vh))}.waste img{inset-inline-start:calc(var(--fan)*23%)}
+aside,footer{align-self:start;background:#092c1edc;border:1px solid #a6af556d;border-radius:13px}
+aside{padding:15px 14px}aside h2{font-size:15px;margin:0}aside small{float:right;color:#adbfad}.stats,footer{display:flex;justify-content:space-around;text-align:center;gap:5px}.stats{margin:14px 0} .stats span,footer span{display:grid;color:#e2ece1;font-size:12px}.stats b,footer b{font-size:20px;color:#ffd25a;font-variant-numeric:tabular-nums}
+.summary{border-top:1px solid #ffffff2c;padding-top:10px;display:flex;justify-content:space-between;color:#daebd3}.summary b{color:#ffdb81}
+footer{align-self:stretch;padding:7px 0}dialog{border:1px solid #829577;border-radius:16px;padding:24px;background:#173d30;color:white}dialog::backdrop{background:#05171399}dialog h2{margin-top:0}
+.flash{outline:3px solid #ffdb5d;outline-offset:1px}.picked{filter:brightness(1.22)}
+@media(max-width:960px){main{grid-template-columns:1fr}aside{display:none}}
+@media(max-width:600px){header{height:46px}main{min-height:calc(100svh - 46px);padding-inline:5px}h1{display:none}nav{gap:5px}button{padding:6px 9px}header strong{font-size:21px}}
+@media(max-height:500px) and (orientation:landscape){header{height:32px}header strong{font-size:19px}main{min-height:calc(100svh - 32px);grid-template-columns:1fr}aside{display:none}nav{padding:5px 0}button{padding:3px 10px}.rows{max-width:103svh}.lower{padding-bottom:13vh}footer{padding:2px}footer span{display:block}footer b{margin-right:6px;font-size:15px}}
+</style>
+<header><strong>♠ SolitaireJS</strong><b>经典纸牌</b><a href="./">正式游戏 ↗</a><small>横版预览</small></header>
+<main><nav><h1>经典纸牌</h1><div class="group"><button data-mode="1" aria-pressed="false">摸一张</button><button data-mode="3" aria-pressed="true">摸三张</button></div>
+<button id="new">重新摆牌</button><button id="settings">设置</button><button class="gold" id="daily">▦ 每日目标</button><button class="purple" id="hint">提示</button><button class="amber" id="undo">↶ 撤销</button></nav>
+<section><div class="table"><div class="rows top"><img alt="back" src="assets/6d2c94aa555736c75080.png" style=""><div class="waste"><img alt="c07" src="assets/22c94f8be0b5616b5dc0.png" style="--fan:0"><img alt="d11" src="assets/99608a09bf82840632f9.png" style="--fan:1"><img alt="s09" src="assets/629fff4a16929644b6a9.png" style="--fan:2"></div><div></div><div class="slot">♠</div><div class="slot">♥</div><div class="slot">♣</div><div class="slot">♦</div></div><div class="rows lower"><div class="pile"><img alt="s13" src="assets/0b1ae48ddea0ffaf9896.png" style="--i:0;--j:0">
+<img alt="h12" src="assets/c73c490b31d65aa9735b.png" style="--i:0;--j:1">
+<img alt="c11" src="assets/aaf2d029d05759ea553c.png" style="--i:0;--j:2">
+<img alt="d10" src="assets/3d66138363ea32bc7b69.png" style="--i:0;--j:3"></div>
+<div class="pile"><img alt="back" src="assets/6d2c94aa555736c75080.png" style="--i:0;--j:0">
+<img alt="h08" src="assets/c4d7d5f52c70f3c53779.png" style="--i:1;--j:0"></div>
+<div class="pile"><img alt="back" src="assets/6d2c94aa555736c75080.png" style="--i:0;--j:0">
+<img alt="back" src="assets/6d2c94aa555736c75080.png" style="--i:1;--j:0">
+<img alt="c06" src="assets/ede98bb0305c845f243a.png" style="--i:2;--j:0">
+<img alt="d05" src="assets/6531cba45826034459ac.png" style="--i:2;--j:1"></div>
+<div class="pile"><img alt="back" src="assets/6d2c94aa555736c75080.png" style="--i:0;--j:0">
+<img alt="back" src="assets/6d2c94aa555736c75080.png" style="--i:1;--j:0">
+<img alt="back" src="assets/6d2c94aa555736c75080.png" style="--i:2;--j:0">
+<img alt="c13" src="assets/aba93838e6646e3bb9bd.png" style="--i:3;--j:0"></div>
+<div class="pile"><img alt="back" src="assets/6d2c94aa555736c75080.png" style="--i:0;--j:0">
+<img alt="back" src="assets/6d2c94aa555736c75080.png" style="--i:1;--j:0">
+<img alt="s10" src="assets/8372725420f00a9c955a.png" style="--i:2;--j:0">
+<img alt="h09" src="assets/f34c6a58465b9c4f93b2.png" style="--i:2;--j:1">
+<img alt="c08" src="assets/37e0e35286a9da122f26.png" style="--i:2;--j:2">
+<img alt="d07" src="assets/21a2a297d1d74ce809a4.png" style="--i:2;--j:3">
+<img alt="s06" src="assets/91a71e5be8d3c2a0787b.png" style="--i:2;--j:4"></div>
+<div class="pile"><img alt="back" src="assets/6d2c94aa555736c75080.png" style="--i:0;--j:0">
+<img alt="back" src="assets/6d2c94aa555736c75080.png" style="--i:1;--j:0">
+<img alt="back" src="assets/6d2c94aa555736c75080.png" style="--i:2;--j:0">
+<img alt="back" src="assets/6d2c94aa555736c75080.png" style="--i:3;--j:0">
+<img alt="h04" src="assets/841c638958baa3e274ef.png" style="--i:4;--j:0"></div>
+<div class="pile"><img alt="back" src="assets/6d2c94aa555736c75080.png" style="--i:0;--j:0">
+<img alt="back" src="assets/6d2c94aa555736c75080.png" style="--i:1;--j:0">
+<img alt="back" src="assets/6d2c94aa555736c75080.png" style="--i:2;--j:0">
+<img alt="back" src="assets/6d2c94aa555736c75080.png" style="--i:3;--j:0">
+<img alt="back" src="assets/6d2c94aa555736c75080.png" style="--i:4;--j:0">
+<img alt="c03" src="assets/f319eee9d10b33550713.png" style="--i:5;--j:0"></div></div></div>
+
+<footer><span><b>02:46</b>时间</span><span><b>18</b>步数</span><span><b>125</b>分数</span><span><b>21</b>余牌</span></footer></section>
+<aside><small>示例</small><h2>个人统计</h2><div class="stats"><span><b>68%</b>胜率</span><span><b>02:14</b>最佳用时</span><span><b>457</b>最高分</span><span><b>3</b>连胜</span></div><div class="summary"><span>今日胜场 <b>1</b></span><span>等级 <b>12</b></span></div></aside></main>
+<dialog id="options"><h2>牌桌设置</h2><label><input type="checkbox" id="mirror"> 备牌放在左侧</label><form method="dialog"><p><button>完成</button></p></form></dialog>
+<dialog id="goals"><h2>每日目标 · 示例</h2><p>✓ 完成一局游戏</p><p>移入收牌堆　8 / 15</p><p>赢得两局　1 / 2</p><form method="dialog"><button>关闭</button></form></dialog>
+<script>
+const get=id=>document.getElementById(id);
+get('settings').onclick=()=>get('options').showModal();
+get('daily').onclick=()=>get('goals').showModal();
+get('mirror').onchange=e=>document.querySelector('.top').style.direction=e.target.checked?'ltr':'rtl';
+const modes=document.querySelectorAll('[data-mode]');
+function drawMode(mode){
+ for(const button of modes)button.setAttribute('aria-pressed',String(button.dataset.mode===mode));
+ document.querySelectorAll('.waste img').forEach((card,index)=>{
+  card.style.display=mode==='1' && index<2?'none':'block';
+  card.style.setProperty('--fan',mode==='1'?0:index);
+ });
+}
+for(const button of modes)button.onclick=()=>drawMode(button.dataset.mode);
+const columns=document.querySelectorAll('.pile');
+const source=columns[3], target=columns[0];
+const queen=target.children[1];
+const king=source.lastElementChild;
+function highlight(active){
+ queen.classList.toggle('flash',active);
+ king.classList.toggle('flash',active);
+}
+function reset(){
+ highlight(false);
+ while(king.nextElementSibling){
+  const card=king.nextElementSibling;
+  card.style.setProperty('--i',0);
+  card.style.setProperty('--j',target.children.length);
+  target.append(card);
+ }
+}
+function move(){
+ if(queen.parentElement!==target)return;
+ highlight(false);
+ for(const card of Array.from(target.children).slice(1)){
+  card.style.setProperty('--i',3);
+  card.style.setProperty('--j',source.children.length-3);
+  source.append(card);
+ }
+}
+get('new').onclick=reset;
+get('undo').onclick=reset;
+get('hint').onclick=()=>{reset();highlight(true);};
+queen.onclick=move;
+</script></html>
